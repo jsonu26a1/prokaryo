@@ -5,7 +5,7 @@ and have dreamed of building my own "simulation models" to help me understand co
 I did some research to see if anyone has worked on something like this before, and found this paper from 2015:
 [PROKARYO an illustrative and interactive computational model of the lactose operon in the bacterium *Escherichia coli*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0720-z).
 It looks like they released some visualization software, and the paper has a lot of good biology background and
-details to reference. In the **Methods** section, they mention some other familiar projects to look into.
+details to reference. In the **Methods** section, they mention some other [familiar](https://en.wikipedia.org/wiki/Virtual_Cell) [projects](https://en.wikipedia.org/wiki/Smoldyn) to look into.
 The goal here isn't to accurately simulate real processes that would require super quantum computers, but to
 try and simulate models that can be tweaked to mimic and appear like real processes. I think there's a lot of
 value in turning a text wall of biology jargon into a 3d animation that a lay person can start visualizing
